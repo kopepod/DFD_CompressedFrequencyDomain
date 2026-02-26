@@ -1,3 +1,3 @@
-- FaceSynthesisDetectionFusion
+-  DFD_CompressedFrequencyDomain
   - README.md
   - LICENSE.md
